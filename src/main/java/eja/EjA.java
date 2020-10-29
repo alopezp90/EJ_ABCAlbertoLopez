@@ -62,7 +62,6 @@ public class EjA {
                 repite = false;
             }
         }
-
         return letraElegida;
     }
 
