@@ -14,7 +14,6 @@ public class EjC {
 
     public static void main(String[] args) {
         boolean repetir;
-        int descuento;
 
         do {
             preguntaBoton();
